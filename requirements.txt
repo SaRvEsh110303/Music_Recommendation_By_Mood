@@ -1,0 +1,8 @@
+opencv-python-headless
+numpy
+mediapipe
+tensorflow
+streamlit
+streamlit-webrtc
+av
+pyopengl  # Add this line to include OpenGL bindings
